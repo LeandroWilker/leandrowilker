@@ -1,7 +1,7 @@
 ## Olá! Eu Sou Leandro Wilker 👋
 
 - 🔭 Hoje estou trabalhando com Front-End
-- 🌱 Estou estudando Html, CSS, Javascript, Typescript e ReactJs ... na <a href="https://softexpe.org.br" target="_blank">Softexpe</a>
+- 🌱 Estou estudando Html, CSS, Javascript, Typescript e ReactJs ... na <a href="https://softexpe.org.br" target="_blank" rel="noopener noreferrer">Softexpe</a>
 - 😄 Pronouns: ele/dele
   <div style="display: inline_block"><br>
     <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
